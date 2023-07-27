@@ -1,7 +1,7 @@
 # The Hirst Painting Project 🎨
 
-![Hirst Painting]
-![DAMIEN-HIRST-Zirconyl-Chloride-2008-Household-gloss-on-canvas-84-inches-diameter-e1328195059823](https://github.com/sachinanm/Tutle_GUI_Hirst-Painting-ProjectTutle_GUI_Hirst-Painting-Project-part2/assets/25323016/ed88470e-6c62-46fa-ae5b-c75db0558a22)
+[Wikipedia - Hirst Painting](https://en.wikipedia.org/wiki/Hirst_Painting)
+
 
 This project recreates Damien Hirst's famous Spot Painting using Python's Turtle module. With just 25 randomly colored dots, we can create a colorful masterpiece that sold for more than half a million pounds!
 
