@@ -1,9 +1,9 @@
 # The Hirst Painting Project 🎨
 
-[Wikipedia - Hirst Painting](https://en.wikipedia.org/wiki/Hirst_Painting)
 
 
-This project recreates Damien Hirst's famous Spot Painting using Python's Turtle module. With just 25 randomly colored dots, we can create a colorful masterpiece that sold for more than half a million pounds!
+
+This project recreates Damien Hirst's [Wikipedia - Hirst Painting](https://en.wikipedia.org/wiki/Hirst_Painting) famous Spot Painting using Python's Turtle module. With just 25 randomly colored dots, we can create a colorful masterpiece that sold for more than half a million pounds!
 
 ## What Are We Up To? 🤔
 
